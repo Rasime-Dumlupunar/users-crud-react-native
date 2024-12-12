@@ -4,9 +4,9 @@ With my "Users Project" built using React Native and Redux Toolkit, you can easi
 
 #Project Features:
 
-## User Creation
-## View User List
-## Edit User Information
+#User Creation
+#View User List
+#Edit User Information
 ## Delete Users
 
 Technology Stack 🌟
@@ -20,10 +20,10 @@ Kullanıcı CRUD Projesi
 React Native ve Redux Toolkit kullanarak yaptığım **"Users Projesi"** ile, CRUD (Create, Read, Update, Delete) işlemleri içeren kullanıcı yönetimi işlemlerini kolayca yapabilirsiniz.
 
 Proje Özellikleri:
-✅ Kullanıcı Ekleme
-✅ Kullanıcı Listesi Görüntüleme
-✅ Kullanıcı Bilgi Düzenleme
-✅ Kullanıcı Silme
+# Kullanıcı Ekleme
+# Kullanıcı Listesi Görüntüleme
+# Kullanıcı Bilgi Düzenleme
+# Kullanıcı Silme
 
 Teknolojik Stak 🌟
 
