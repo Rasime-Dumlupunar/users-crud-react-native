@@ -2,11 +2,12 @@ User CRUD Project
 
 With my "Users Project" built using React Native and Redux Toolkit, you can easily manage user operations involving Create, Read, Update, and Delete (CRUD).
 
-Project Features:
-✅ User Creation
-✅ View User List
-✅ Edit User Information
-✅ Delete Users
+#Project Features:
+
+## User Creation
+## View User List
+## Edit User Information
+## Delete Users
 
 Technology Stack 🌟
 @react-navigation/native
@@ -30,6 +31,6 @@ Teknolojik Stak 🌟
 @reduxjs/toolkit
 Formik & Yup
 React Native & Safe Area Context
-# users-crud-react-native
+
 
 ![](https://github.com/Rasime-Dumlupunar/users-crud-react-native/blob/main/users.gif)
